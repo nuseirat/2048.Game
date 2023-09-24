@@ -1,7 +1,7 @@
 import random
 
 
-print('2048 by Mohammed Nuseirat')
+
 
 
 # Create empty board
